@@ -1,0 +1,11 @@
+/* media css */
+/* for tablets */
+@media screen and (min-width:576px) and (max-width:992px) {
+    
+}
+
+
+/* for mobiles */
+@media screen and (max-width:576px) {
+    
+}
